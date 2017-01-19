@@ -1,0 +1,32 @@
+.button{
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  background-color: #e8e8e8;
+  border: none;
+}
+.sec{
+  background-color: #67b1f1;
+  border: 1px solid #cefeda;
+}
+.small{
+  font-size: 14px;
+  padding: 2px 15px;
+  border-radius: 7px;
+  box-shadow: 1px 1px #bebebe;
+}
+.medium{
+  font-size: 18px;
+  padding: 5px 20px;
+  border-radius: 10px;
+  box-shadow: 1px 1px #bebebe;
+}
+.big{
+  font-size: 22px;
+  padding: 7px 25px;
+  border-radius: 12px;
+  box-shadow: 1px 2px #bebebe;
+}
+.main{
+  margin-top: 20px;
+}
